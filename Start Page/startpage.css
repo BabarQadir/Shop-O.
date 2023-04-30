@@ -20,3 +20,10 @@
     color: black;
 
   }
+  .col-sm-12{
+    display: flex;
+    justify-content: space-between;
+    /* color: black; */
+
+  }
+
